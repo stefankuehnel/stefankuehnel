@@ -11,7 +11,7 @@ During the last few years, I've worked for great companies like [Ryte](https://e
 - [Google PageRank](https://jupyter.stefankuehnel.com/projects/pagerank.html) – Replication of the Google PageRank algorithm in SageMath, which counts the number and quality of links to a page to determine a rough estimate of the site's importance. 
 - [Deterministic Finite Automata](https://jupyter.stefankuehnel.com/projects/deterministischer-endlicher-automat.html) – Implementation of a DFA in SageMath that allows to capture any expression and process it according to given rules. 
 - [Geospatial Sundial](https://jupyter.stefankuehnel.com/projects/sonnenuhr.html) – Implementation of a sundial in SageMath that generates a location-based dial from given geographic coordinates. 
-- [Project Adjuvant](https://github.com/projekt-adjuvant) – Alexa skill that helps patients with dementia remember important appointments or calculate efficient routes. 
+- [Project Adjuvant](https://github.com/projekt-adjuvant) – Alexa skill developed in cooperation with AWS that helps patients with dementia remember important appointments or calculate efficient routes. 
 
 ### Open source
 
