@@ -4,7 +4,7 @@
 
 During the last few years, I've worked for great companies like [Ryte](https://en.ryte.com) (previously OnPage.org) or [Syzygy AG](https://www.syzygy-group.net/en/about-us/) (previously Catbird Seat GmbH). I've been experimenting and working with a lot of different technologies/tools: React, Next.js, TypeScript, GraphQL, CSS Modules, Styled Components, Tailwind CSS, Bash, gitk, CI/CD (GitHub Actions), AWS (S3, Lambda, Dynamo DB), Vercel, Netlify, Python (SageMath), PHP, Java (JUnit, Jacoco, Checkstyle, Gson), C#, ...
 
-### Side-projects
+### Projects
 
 - [Markdown Editor](https://editor.my.stefan.zone/) – Minimal editor for writing text in Markdown easily and quickly.
 - [LaTeX Converter](https://latex.userstatic.com) – Converter for turning LaTeX equations into various pixel- or vector-based graphic formats that can be embedded on platforms without MathJax support.
