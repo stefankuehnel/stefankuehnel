@@ -1,4 +1,4 @@
-👋   Hi there, I'm Stefan, a German computer science student and multi-disciplinary developer currently living in the beautiful München, Bavaria.
+👋   Hi there, I'm Stefan, a German multi-disciplinary developer currently living in the beautiful München, Bavaria.
 
 ### Work
 
