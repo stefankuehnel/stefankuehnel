@@ -2,7 +2,7 @@
 
 ### Work
 
-During the last few years, I've worked for great companies like [Ryte](https://en.ryte.com) (previously OnPage.org) or [Syzygy AG](https://www.syzygy-group.net/en/about-us/) (previously Catbird Seat GmbH). I've been experimenting and working with a lot of different technologies/tools: React, Next.js, TypeScript, GraphQL, CSS Modules, Styled Components, Tailwind CSS, Bash, gitk, CI/CD (GitHub Actions), AWS (S3, Lambda, Dynamo DB), Tomcat, TomEE, Vercel, Netlify, Maven Central Repository, Python (SageMath), PHP, Java (JUnit, Jacoco, Checkstyle, Gson, Jakarta EE), C#, ...
+During the last few years, I've worked for great companies like [Ryte](https://en.ryte.com) (previously OnPage.org) or [Syzygy AG](https://www.syzygy-group.net/en/about-us/) (previously Catbird Seat GmbH). I've been experimenting and working with a lot of different technologies/tools: React, Next.js, TypeScript, GraphQL, CSS Modules, Styled Components, Tailwind CSS, Bash, gitk, CI/CD (GitHub Actions), AWS (S3, Lambda, Dynamo DB), Tomcat, TomEE, Vercel, Netlify, Maven Central Repository, Python (SageMath), PHP, Java (JUnit, Jacoco, Checkstyle, Gson, Jakarta EE, Hibernate), C#, ...
 
 ### Projects
 
