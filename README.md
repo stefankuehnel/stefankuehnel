@@ -24,8 +24,8 @@ When I'm not busy, I create, maintain and contribute to open-source projects:
 
 ### Get in touch
 
-- 🔮   Keybase [keybase.io/stefankuehnel](https://keybase.io/stefankuehnel)
-- 💬   Mastodon [mastodon.cloud/@stefankuehnel](https://l.stefankuehnel.com/mastodon)
+- 🔮   Keybase [keybase.io/stefankuehnel](https://stefanco.de/r/keybase)
+- 💬   Mastodon [mastodon.cloud/@stefankuehnel](https://stefanco.de/r/mastodon)
 <!--
 **stefankuehnel/stefankuehnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
