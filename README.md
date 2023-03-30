@@ -8,9 +8,9 @@ During the last few years, I've worked for great companies like [Ryte](https://e
 
 - [Markdown Editor](https://editor.my.stefan.zone/) – Minimal editor for writing text in Markdown easily and quickly.
 - [LaTeX Converter](https://latex.userstatic.com) – Converter for turning LaTeX equations into various pixel- or vector-based graphic formats that can be embedded on platforms without MathJax support.
-- [Google PageRank](https://jupyter.stefankuehnel.com/projects/pagerank.html) – Replication of the Google PageRank algorithm in SageMath, which counts the number and quality of links to a page to determine a rough estimate of the site's importance. 
-- [Deterministic Finite Automata](https://jupyter.stefankuehnel.com/projects/deterministischer-endlicher-automat.html) – Implementation of a DFA in SageMath that allows to capture any expression and process it according to given rules. 
-- [Geospatial Sundial](https://jupyter.stefankuehnel.com/projects/sonnenuhr.html) – Implementation of a sundial in SageMath that generates a location-based dial from given geographic coordinates. 
+- [Google PageRank](https://stefanco.de/jupyter/pagerank.html) – Replication of the Google PageRank algorithm in SageMath, which counts the number and quality of links to a page to determine a rough estimate of the site's importance. 
+- [Deterministic Finite Automata](https://stefanco.de/jupyter/deterministischer-endlicher-automat.html) – Implementation of a DFA in SageMath that allows to capture any expression and process it according to given rules. 
+- [Geospatial Sundial](https://stefanco.de/jupyter/sonnenuhr.html) – Implementation of a sundial in SageMath that generates a location-based dial from given geographic coordinates. 
 - [Project Adjuvant](https://github.com/projekt-adjuvant) – Alexa skill developed in cooperation with [AWS](https://www.aws.com) and [Alzheimer Society Munich e.V.](https://www.agm-online.de/agm-home.html) that helps patients with dementia remember important appointments or calculate efficient routes. 
 
 ### Open source
