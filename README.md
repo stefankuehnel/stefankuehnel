@@ -16,9 +16,9 @@ During the last few years, I've worked for great companies like [Ryte](https://e
 ### Open source
 
 When I'm not busy, I create, maintain and contribute to open-source projects:
-- [custom-recipes/semantic-release-github](https://github.com/custom-recipes/semantic-release-github)
 - [custom-recipes/prettier-imports](https://github.com/custom-recipes/prettier-imports)
-- [custom-recipes/conventional-commits](https://github.com/custom-recipes/conventional-commits)
+- [custom-images/asciidoctor](https://github.com/custom-images/asciidoctor)
+- [custom-images/weasyprint](https://github.com/custom-images/weasyprint)
 - [custom-workflows/reactivate](https://github.com/marketplace/actions/reactivate-repository)
 - [custom-workflows/days-since-last-commit](https://github.com/marketplace/actions/days-since-last-commit)
 - [javascript-packages/roman-numerals](https://github.com/javascript-packages/roman-numerals)
