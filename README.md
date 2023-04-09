@@ -20,6 +20,7 @@ When I'm not busy, I create, maintain and contribute to open-source projects:
 - [custom-recipes/prettier-imports](https://github.com/custom-recipes/prettier-imports)
 - [custom-recipes/conventional-commits](https://github.com/custom-recipes/conventional-commits)
 - [custom-workflows/reactivate](https://github.com/marketplace/actions/reactivate-repository)
+- [custom-workflows/days-since-last-commit](https://github.com/marketplace/actions/days-since-last-commit)
 - [javascript-packages/roman-numerals](https://github.com/javascript-packages/roman-numerals)
 - and many others...
 
