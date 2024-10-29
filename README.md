@@ -7,7 +7,7 @@ During the last few years, I've worked for great companies like [Ryte](https://e
 ### Projects
 
 - [Today I Learned](https://til.stefanblog.de) –  A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
-- [Markdown Editor](https://editor.my.stefan.zone/) – Minimal editor for writing text in Markdown easily and quickly.
+- [Markdown Editor](https://editor.stefan-dev.de/) – Minimal editor for writing text in Markdown easily and quickly.
 - [LaTeX Converter](https://latex.stefan-dev.de) – Converter for turning LaTeX equations into various pixel- or vector-based graphic formats that can be embedded on platforms without MathJax support.
 - [Google PageRank](https://stefanco.de/jupyter/pagerank.html) – Replication of the Google PageRank algorithm in SageMath, which counts the number and quality of links to a page to determine a rough estimate of the site's importance. 
 - [Deterministic Finite Automata](https://stefanco.de/jupyter/deterministischer-endlicher-automat.html) – Implementation of a DFA in SageMath that allows to capture any expression and process it according to given rules. 
